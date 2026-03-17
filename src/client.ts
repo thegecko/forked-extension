@@ -1,1 +1,1 @@
-process.exit(666);
+process.exit(66);
